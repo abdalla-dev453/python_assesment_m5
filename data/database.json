@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "Abdalla",
+            "email": "abdalla@gmail.com",
+            "projects": [
+                {
+                    "title": "Expense Tracker",
+                    "description": "Track expenses",
+                    "due_date": "2026-07-01",
+                    "tasks": [
+                        {
+                            "title": "Build Dashboard",
+                            "status": "Completed",
+                            "assigned_to": "Abdalla"
+                        },
+                        {
+                            "title": "Build Reports",
+                            "status": "Pending",
+                            "assigned_to": "Abdalla"
+                        },
+                        {
+                            "title": "Build Analytics",
+                            "status": "Pending",
+                            "assigned_to": "Abdalla"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
